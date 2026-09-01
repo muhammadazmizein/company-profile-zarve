@@ -1,0 +1,433 @@
+{
+  "Metadata": {
+    "titleDefault": "ZARVE Digital Solution",
+    "titleTemplate": "%s — ZARVE Digital Solution",
+    "description": "ZARVE Digital Solution brings fleet, rental, ERP, finance, and payment together in one integrated platform for businesses on the move.",
+    "home": { "title": "Home" },
+    "products": {
+      "title": "Products",
+      "description": "ZARVE Fleet, Rent, Drive, Workshop, ERP, Finance, Wallet, and Pay — eight modules in one integrated platform."
+    },
+    "plans": {
+      "title": "Plans",
+      "description": "Flexible commercial model and subscription packages from ZARVE — from Starter to Enterprise."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Get in touch with the ZARVE team for a demo, consultation, or any questions about the platform."
+    }
+  },
+  "Nav": {
+    "home": "Home",
+    "products": "Products",
+    "plans": "Plans",
+    "contact": "Contact",
+    "requestDemo": "Request Demo",
+    "toggleMenu": "Toggle navigation menu",
+    "language": "Language"
+  },
+  "Cta": {
+    "talkToTeam": "Talk to Our Team"
+  },
+  "Footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  },
+  "Site": {
+    "description": "ZARVE Digital Solution brings fleet, rental, ERP, finance, and payment together in one integrated platform for businesses on the move."
+  },
+  "HomePage": {
+    "hero": {
+      "eyebrowSuffix": "Digital Solution",
+      "titleLine1": "One platform to run",
+      "titleAccent": "your entire business.",
+      "body": "Manage every vehicle. Connect every operation. Process every transaction. Understand every number — in one integrated digital ecosystem.",
+      "ctaPrimary": "Request a Demo",
+      "ctaSecondary": "Explore Products",
+      "imageAlt": "ZARVE platform displayed across laptop, tablet, and mobile devices",
+      "strip": ["Fleet", "ERP", "FinTech", "Payment", "Data", "AI"]
+    },
+    "whoWeAre": {
+      "eyebrow": "Who We Are",
+      "title": "ZARVE",
+      "accent": "Digital Solution",
+      "headline": "Technology that makes complex businesses easier to control.",
+      "body": [
+        "ZARVE Digital Solution connects operations, transactions, finance, ERP, data, and automation in one platform.",
+        "With ZARVE, companies can improve visibility, efficiency, control, and decision making through technology built for modern businesses on the move — vehicle rental, transportation, logistics, workshops, and corporations with operational fleets."
+      ],
+      "visionLabel": "Vision",
+      "vision": "To become the digital infrastructure platform that powers the transformation of the mobility, transportation, rental, automotive, and enterprise industries in Indonesia.",
+      "imageAlt": "ZARVE Management Command Center dashboard"
+    },
+    "challenge": {
+      "eyebrow": "The Business Challenge",
+      "title": "Business grows.",
+      "accent": "Complexity grows faster.",
+      "description": "The bigger the fleet, the more points that need to be controlled every day — and the easier it is to lose visibility."
+    },
+    "story": {
+      "eyebrow": "Our Story",
+      "title": "Built from",
+      "accent": "real operations.",
+      "body": [
+        "ZARVE was born from a real need to unify mobility, after-sales, and finance businesses.",
+        "Our technology is built not just from theory, but from experience, process, and everyday operational challenges on the ground — one real ecosystem that became the foundation for ZARVE's technology development."
+      ],
+      "imageAlt": "A fleet of vehicles that forms the basis of ZARVE's operations"
+    },
+    "ecosystem": {
+      "eyebrow": "ZARVE Digital Ecosystem",
+      "title": "One platform.",
+      "accent": "Multiple solutions.",
+      "description": "Every module can be adopted gradually as the company needs, and stays connected through ZARVE Digital Core as the center for data, workflow, integration, and business intelligence.",
+      "modules": ["Asset", "Operation", "Transaction", "Finance", "Data", "Intelligence"],
+      "bannerPart1": "Manage operations. ",
+      "bannerAccent1": "Control transactions.",
+      "bannerPart2": " Understand financial impact. ",
+      "bannerAccent2": "Make smarter decisions."
+    },
+    "cta": {
+      "title": "Ready to run your business",
+      "accent": "on one platform?",
+      "description": "Schedule a demo with the ZARVE team and see how fleet, ERP, finance, and payment can connect in one ecosystem."
+    }
+  },
+  "ProductsPage": {
+    "header": {
+      "eyebrow": "Products",
+      "title": "One suite.",
+      "accent": "Every part of the business.",
+      "description": "From vehicles to finance, ZARVE connects every operational process across modules that work together."
+    },
+    "grid": {
+      "eyebrow": "The Suite",
+      "title": "Eight modules.",
+      "accent": "One connected platform.",
+      "description": "Every module can stand on its own, or work together as one connected ecosystem — starting with ZARVE Fleet as the foundation for controlling every vehicle.",
+      "imageAlt": "ZARVE Fleet dashboard shown across desktop and mobile",
+      "productLabel": "Product"
+    },
+    "payments": {
+      "eyebrow": "Payments, Connected",
+      "title": "Every transaction",
+      "accent": "has context.",
+      "description": "A single transaction can automatically update the operation, finance, and management view — from payment received to the dashboard being updated.",
+      "bannerPart1": "Every transaction ",
+      "bannerAccent1": "has context."
+    },
+    "management": {
+      "eyebrow": "Management Command Center",
+      "title": "Your entire business.",
+      "accent": "One screen.",
+      "description": "ZARVE Management Command Center brings key operational and financial indicators together in one dashboard — from a single vehicle to the consolidated group view.",
+      "noteAccent": "From data to decision.",
+      "note": " One dashboard to understand the business, control operations, and make decisions faster.",
+      "imageAlt": "ZARVE Management Command Center on laptop"
+    },
+    "intelligence": {
+      "eyebrow": "Intelligence Layer",
+      "title": "From data",
+      "accent": "to decisions.",
+      "description": "ZARVE Analytics and AI help management see, understand, predict, and act — turning business data into management intelligence.",
+      "imageAlt": "ZARVE analytics and AI dashboard",
+      "bannerPart1": "Your business data becomes ",
+      "bannerAccent1": "management intelligence."
+    },
+    "cta": {
+      "title": "See the full platform",
+      "accent": "in action.",
+      "description": "We'll show you how ZARVE works for the scale and business model you run."
+    }
+  },
+  "PlansPage": {
+    "header": {
+      "eyebrow": "Plans & Pricing",
+      "title": "Pay as you grow,",
+      "accent": "scale without limits.",
+      "description": "ZARVE's commercial model follows the size of your fleet, modules, and transaction volume."
+    },
+    "commercial": {
+      "eyebrow": "Commercial Structure",
+      "title": "Flexible. Scalable.",
+      "accent": "Pay as you grow.",
+      "description": "The commercial model can follow fleet size, modules, and customer transaction volume — companies can start with core needs and expand as the business grows."
+    },
+    "comparison": {
+      "eyebrow": "SaaS Business Model",
+      "title": "Don't build the system.",
+      "accent": "Subscribe to it.",
+      "description": "ZARVE SaaS offers a Software as a Service model for rental and fleet transport businesses — without the upfront burden of development and infrastructure.",
+      "startSmallTitle": "Start small.",
+      "startSmallSubtitle": "Scale to thousands of vehicles.",
+      "lowerCostTitle": "Lower cost",
+      "lowerCostSubtitle": "More efficient",
+      "easyScaleTitle": "Easy to scale",
+      "easyScaleSubtitle": "Grow together with your business",
+      "imageAlt": "ZARVE fleet growth journey"
+    },
+    "market": {
+      "eyebrow": "Market & Differentiation",
+      "title": "Built for",
+      "accent": "businesses that move.",
+      "description": "ZARVE can be used by vehicle operators as well as companies with an operational fleet.",
+      "whyTitle": "Why ZARVE?",
+      "vehiclesAlt": "{title} vehicles",
+      "bannerPart1": "One platform for ",
+      "bannerAccent1": "multiple mobility business models."
+    },
+    "pricing": {
+      "eyebrow": "Subscription Packages",
+      "title": "Flexible plans.",
+      "accent": "Scalable solutions.",
+      "description": "Choose the right operating system for your scale — from a small fleet to a multi-company enterprise."
+    },
+    "difference": {
+      "eyebrow": "The ZARVE Difference",
+      "title": "Beyond software.",
+      "accent": "Beyond automation.",
+      "description": "Traditional software manages features. ZARVE manages the business — moving from digitalization toward an intelligent ecosystem that connects operations, transactions, finance, and data in one platform.",
+      "journeyTitle": "The ZARVE transformation journey"
+    },
+    "cta": {
+      "title": "Not sure which plan",
+      "accent": "fits your business?",
+      "description": "Tell us about your scale and operational needs — the ZARVE team will help recommend the right package."
+    }
+  },
+  "ContactPage": {
+    "header": {
+      "eyebrow": "Contact Us",
+      "title": "Let's connect.",
+      "accent": "Let's grow.",
+      "description": "One team, ready to help your operations, transactions, and business growth run better."
+    },
+    "section": {
+      "titlePart1": "Let's build the future ",
+      "titleAccent": "of your business, together.",
+      "intro": "The ZARVE team is ready to help you find the best solution for your operations, transactions, and business growth.",
+      "imageAlt": "ZARVE office reception and contact QR code"
+    }
+  },
+  "Content": {
+    "heroBenefits": [
+      { "title": "One Platform", "description": "One system for your entire business operations." },
+      { "title": "Smart Decisions", "description": "Real-time insight for better decisions." },
+      { "title": "Secure & Reliable", "description": "Safe, stable, and trustworthy." },
+      { "title": "Scalable by Design", "description": "Grows alongside your business." }
+    ],
+    "challengeCards": [
+      { "title": "Fleet", "description": "Active, idle, maintenance, availability" },
+      { "title": "Driver", "description": "Assignment, deposit, risk performance" },
+      { "title": "Rental", "description": "Booking, contract, handover, return" },
+      { "title": "Maintenance", "description": "Active, idle, maintenance, availability" },
+      { "title": "Finance", "description": "Revenue, expense, AR/AP, cash flow" },
+      { "title": "Asset", "description": "Financing, documents, tax, lifecycle" },
+      { "title": "Payment", "description": "Billing, collection, settlement, reconciliation" },
+      { "title": "Management", "description": "KPI, margin, branch, profitability" }
+    ],
+    "productModules": [
+      {
+        "name": "FLEET",
+        "brand": "ZARVE",
+        "tagline": "Control Every Vehicle",
+        "description": "From vehicle status to revenue and profitability, ZARVE Fleet gives you a single source of data to see the condition of every vehicle across its operational lifecycle.",
+        "points": [
+          "Complete fleet vehicle master database",
+          "Real-time GPS & telematics",
+          "Utilization & productivity per unit",
+          "Revenue & cost down to the vehicle level",
+          "Documents, tax, registration, and reminders",
+          "Profitability per unit"
+        ]
+      },
+      {
+        "name": "RENT",
+        "brand": "ZARVE",
+        "tagline": "Rental Business Operating System",
+        "description": "From booking to payment and return, ZARVE Rent connects the entire rental process in one integrated platform.",
+        "points": ["Booking & contract", "Handover & return", "Customer management", "Integrated billing"]
+      },
+      {
+        "name": "DRIVE",
+        "brand": "ZARVE",
+        "tagline": "People Performance",
+        "description": "Driver management directly connected to fleet performance — assignment, deposit, and risk & performance scoring.",
+        "points": ["Assignment & scheduling", "Deposit management", "Risk & performance scoring"]
+      },
+      {
+        "name": "WORKSHOP",
+        "brand": "ZARVE",
+        "tagline": "Vehicle Health",
+        "description": "Maintenance connected in real time with vehicle data and driver performance for better business control.",
+        "points": ["Preventive & corrective maintenance", "Parts & inventory", "Service history per unit"]
+      },
+      {
+        "name": "ERP",
+        "brand": "ZARVE",
+        "tagline": "One Company. One System.",
+        "description": "Connects operations and transactions into a single source of data for a more transparent and efficient business.",
+        "points": ["Asset & procurement", "Multi-branch operations", "Workflow & approval"]
+      },
+      {
+        "name": "FINANCE",
+        "brand": "ZARVE",
+        "tagline": "One Data. Better Decisions.",
+        "description": "From business activity to financial decisions, everything is connected in one platform with a single integrated source of data.",
+        "points": ["Revenue & expense", "AR / AP", "Cash flow & reporting"]
+      },
+      {
+        "name": "WALLET",
+        "brand": "ZARVE",
+        "tagline": "Digital Wallet Ecosystem",
+        "description": "Connects payment, transactions, and finance in one ecosystem that's safe, fast, and integrated.",
+        "points": ["Digital balance & top-up", "Transfer between accounts", "Transaction history"]
+      },
+      {
+        "name": "PAY",
+        "brand": "ZARVE",
+        "tagline": "Payment Infrastructure & Integration",
+        "description": "Payment infrastructure integrated with billing, collection, and settlement in real time.",
+        "points": ["Billing & collection", "Settlement & reconciliation", "Payment gateway integration"]
+      }
+    ],
+    "paymentSteps": [
+      { "title": "Payment Received", "description": "Payment is received in real time." },
+      { "title": "Transaction Identified", "description": "The transaction is linked to business data." },
+      { "title": "Invoice Matched", "description": "Payment matches the invoice." },
+      { "title": "Receivable Updated", "description": "Receivable status is updated automatically." },
+      { "title": "Finance Updated", "description": "Financial data is synchronized." },
+      { "title": "Dashboard Updated", "description": "Business insight is available in real time." }
+    ],
+    "paymentContext": ["Vehicle", "Driver", "Customer", "Invoice", "Contract", "Branch", "Accounting Record"],
+    "managementFeatures": [
+      { "title": "Fleet Overview", "description": "Overall condition of the fleet." },
+      { "title": "Utilization", "description": "Productivity of each vehicle unit." },
+      { "title": "Revenue", "description": "Real-time revenue per period." },
+      { "title": "Profitability", "description": "Net margin per unit & branch." },
+      { "title": "Collection", "description": "Billing and receivables status." },
+      { "title": "Cash Flow", "description": "Cash inflow and outflow." },
+      { "title": "Maintenance", "description": "Maintenance schedule and history." },
+      { "title": "Driver Performance", "description": "Driver performance and risk scoring." },
+      { "title": "Management KPI", "description": "Key business performance indicators." },
+      { "title": "Consolidated View", "description": "One view across branches & entities." }
+    ],
+    "intelligenceTimeline": [
+      { "title": "Data", "description": "What happened?" },
+      { "title": "Information", "description": "What does it mean?" },
+      { "title": "Insight", "description": "Why did it happen?" },
+      { "title": "Predict", "description": "What may happen?" },
+      { "title": "Decide", "description": "What should we do?" }
+    ],
+    "intelligenceUseCases": [
+      { "title": "Predictive Maintenance", "description": "Vehicle health" },
+      { "title": "Revenue Forecasting", "description": "Growth & capacity" },
+      { "title": "Risk Scoring", "description": "Driver / payment" },
+      { "title": "Anomaly Detection", "description": "Leakage & fraud" },
+      { "title": "Cash Flow Forecast", "description": "Liquidity" },
+      { "title": "AI Assistant", "description": "Natural language insights" }
+    ],
+    "commercialItems": [
+      { "title": "Platform Fee", "description": "Monthly access fee." },
+      { "title": "Per Vehicle", "description": "Based on unit count." },
+      { "title": "Modules", "description": "Add-ons as needed." },
+      { "title": "Transaction", "description": "Payment services." },
+      { "title": "Enterprise", "description": "API, integration, custom." }
+    ],
+    "comparisonColumns": [
+      {
+        "heading": "Traditional",
+        "subheading": "Build everything yourself",
+        "items": [
+          "Large upfront development",
+          "Dedicated IT team",
+          "Server & maintenance",
+          "Long implementation",
+          "Continuous upgrade burden"
+        ]
+      },
+      {
+        "heading": "ZARVE SaaS",
+        "subheading": "Subscribe. Scale. Improve.",
+        "items": [
+          "Monthly platform access",
+          "Pay based on fleet size",
+          "Select modules as needed",
+          "Updates & maintenance included",
+          "API, support & enterprise options"
+        ]
+      }
+    ],
+    "industries": [
+      { "title": "Rent Car", "description": "Short / long term rental" },
+      { "title": "Fleet Transport", "description": "Transportation operator" },
+      { "title": "Logistics", "description": "Delivery & commercial vehicle" },
+      { "title": "Ride-Hailing", "description": "Taxi & driver fleet" },
+      { "title": "Corporate Fleet", "description": "Operational vehicle" },
+      { "title": "EV Ecosystem", "description": "EV operator & after sales" }
+    ],
+    "differentiators": [
+      "Built from real operations",
+      "Operation + Finance + Payment",
+      "Modular SaaS",
+      "API ready",
+      "Management focused",
+      "AI ready"
+    ],
+    "differenceJourney": [
+      { "title": "Digitize", "description": "Turning manual processes into digital ones." },
+      { "title": "Connect", "description": "Connecting the entire business ecosystem." },
+      { "title": "Transact", "description": "Processing transactions in a connected way." },
+      { "title": "Automate", "description": "Reducing manual processes." },
+      { "title": "Predict", "description": "Turning data into predictions." },
+      { "title": "Intelligent", "description": "Building a smarter business." }
+    ],
+    "pricingPlans": [
+      {
+        "name": "Starter",
+        "audience": "Small rental & fleet",
+        "features": ["Fleet", "Rental", "Customer", "Billing", "Basic dashboard"]
+      },
+      {
+        "name": "Professional",
+        "audience": "Growing fleet",
+        "features": ["Starter features", "Driver", "Workshop", "Finance", "Payment integration"]
+      },
+      {
+        "name": "Business",
+        "audience": "Medium & large",
+        "features": ["Fleet + rental", "ERP", "Finance", "Payment", "Analytics + multi-branch"]
+      },
+      {
+        "name": "Enterprise",
+        "audience": "Large organization",
+        "features": ["Full ERP", "Multi-company", "API integration", "Custom workflow", "Dedicated support"]
+      }
+    ],
+    "planBenefits": [
+      { "title": "Flexible", "description": "Upgrade, downgrade, or add modules anytime." },
+      { "title": "Scalable", "description": "Start small, grow without limits." },
+      { "title": "Secure & Reliable", "description": "Secure data, stable system, always up to date." },
+      { "title": "Supported", "description": "A professional support team ready to help you." }
+    ],
+    "contactDetails": [
+      {
+        "label": "Phone / WhatsApp",
+        "value": "+62 812 59 5599"
+      },
+      {
+        "label": "Email",
+        "value": "rvetrans@rilingroup.com"
+      },
+      {
+        "label": "Website",
+        "value": "www.zarve.id"
+      },
+      {
+        "label": "Head Office",
+        "value": "PT Riline Velocity Express\nJl. Sentra Niaga V No.17 Blok 7, Harapan Indah, Tarumajaya, Bekasi, West Java"
+      }
+    ]
+  }
+}

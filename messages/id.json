@@ -1,0 +1,433 @@
+{
+  "Metadata": {
+    "titleDefault": "ZARVE Digital Solution",
+    "titleTemplate": "%s — ZARVE Digital Solution",
+    "description": "ZARVE Digital Solution menyatukan fleet, rental, ERP, finance, dan payment dalam satu platform terintegrasi untuk bisnis yang bergerak.",
+    "home": { "title": "Beranda" },
+    "products": {
+      "title": "Produk",
+      "description": "ZARVE Fleet, Rent, Drive, Workshop, ERP, Finance, Wallet, dan Pay — delapan modul dalam satu platform terintegrasi."
+    },
+    "plans": {
+      "title": "Paket",
+      "description": "Model komersial fleksibel dan paket subscription ZARVE — dari Starter hingga Enterprise."
+    },
+    "contact": {
+      "title": "Kontak",
+      "description": "Hubungi tim ZARVE untuk demo, konsultasi, atau pertanyaan seputar platform."
+    }
+  },
+  "Nav": {
+    "home": "Beranda",
+    "products": "Produk",
+    "plans": "Paket",
+    "contact": "Kontak",
+    "requestDemo": "Minta Demo",
+    "toggleMenu": "Buka/tutup menu navigasi",
+    "language": "Bahasa"
+  },
+  "Cta": {
+    "talkToTeam": "Hubungi Tim Kami"
+  },
+  "Footer": {
+    "navigation": "Navigasi",
+    "contact": "Kontak",
+    "rights": "Seluruh hak cipta dilindungi."
+  },
+  "Site": {
+    "description": "ZARVE Digital Solution menyatukan fleet, rental, ERP, finance, dan payment dalam satu platform terintegrasi untuk bisnis yang bergerak."
+  },
+  "HomePage": {
+    "hero": {
+      "eyebrowSuffix": "Digital Solution",
+      "titleLine1": "Satu platform untuk menjalankan",
+      "titleAccent": "seluruh bisnis Anda.",
+      "body": "Kelola setiap kendaraan. Hubungkan setiap operasional. Proses setiap transaksi. Pahami setiap angka — dalam satu ecosystem digital yang terintegrasi.",
+      "ctaPrimary": "Minta Demo",
+      "ctaSecondary": "Lihat Produk",
+      "imageAlt": "Platform ZARVE ditampilkan di laptop, tablet, dan mobile",
+      "strip": ["Fleet", "ERP", "FinTech", "Payment", "Data", "AI"]
+    },
+    "whoWeAre": {
+      "eyebrow": "Tentang Kami",
+      "title": "ZARVE",
+      "accent": "Digital Solution",
+      "headline": "Teknologi yang membuat bisnis kompleks lebih mudah dikontrol.",
+      "body": [
+        "ZARVE Digital Solution menghubungkan operasi, transaksi, finance, ERP, data, dan automation dalam satu platform.",
+        "Dengan ZARVE, perusahaan dapat meningkatkan visibility, efficiency, control, dan decision making melalui teknologi yang dirancang untuk bisnis modern yang bergerak — rental kendaraan, transportasi, logistik, workshop, hingga korporasi dengan armada operasional."
+      ],
+      "visionLabel": "Vision",
+      "vision": "Menjadi digital infrastructure platform yang mendukung transformasi industri mobility, transportation, rental, automotive, dan enterprise di Indonesia.",
+      "imageAlt": "Dashboard ZARVE Management Command Center"
+    },
+    "challenge": {
+      "eyebrow": "Tantangan Bisnis",
+      "title": "Bisnis tumbuh.",
+      "accent": "Kompleksitas tumbuh lebih cepat.",
+      "description": "Semakin besar fleet, semakin banyak titik yang harus dikontrol setiap hari — dan semakin mudah kehilangan visibility."
+    },
+    "story": {
+      "eyebrow": "Kisah Kami",
+      "title": "Dibangun dari",
+      "accent": "operasional nyata.",
+      "body": [
+        "ZARVE lahir dari kebutuhan nyata untuk menyatukan bisnis mobility, after-sales, dan finance.",
+        "Teknologi kami dibangun bukan hanya dari teori, tetapi dari pengalaman, proses, dan tantangan operasional sehari-hari di lapangan — satu ekosistem nyata yang menjadi fondasi pengembangan teknologi ZARVE."
+      ],
+      "imageAlt": "Armada kendaraan yang menjadi dasar operasional ZARVE"
+    },
+    "ecosystem": {
+      "eyebrow": "Ekosistem Digital ZARVE",
+      "title": "Satu platform.",
+      "accent": "Banyak solusi.",
+      "description": "Setiap modul dapat digunakan secara bertahap sesuai kebutuhan perusahaan, dan saling terhubung melalui ZARVE Digital Core sebagai pusat data, workflow, integrasi, dan business intelligence.",
+      "modules": ["Asset", "Operation", "Transaction", "Finance", "Data", "Intelligence"],
+      "bannerPart1": "Kelola operasional. ",
+      "bannerAccent1": "Kontrol transaksi.",
+      "bannerPart2": " Pahami dampak finansial. ",
+      "bannerAccent2": "Ambil keputusan lebih cerdas."
+    },
+    "cta": {
+      "title": "Siap menjalankan bisnis Anda",
+      "accent": "dalam satu platform?",
+      "description": "Jadwalkan demo bersama tim ZARVE dan lihat bagaimana fleet, ERP, finance, dan payment dapat terhubung dalam satu ecosystem."
+    }
+  },
+  "ProductsPage": {
+    "header": {
+      "eyebrow": "Produk",
+      "title": "Satu suite.",
+      "accent": "Setiap bagian bisnis.",
+      "description": "Dari kendaraan hingga keuangan, ZARVE menghubungkan seluruh proses operasional dalam modul-modul yang saling terintegrasi."
+    },
+    "grid": {
+      "eyebrow": "Rangkaian Modul",
+      "title": "Delapan modul.",
+      "accent": "Satu platform terhubung.",
+      "description": "Setiap modul dapat berdiri sendiri, atau digunakan bersama sebagai satu ecosystem yang saling terhubung — mulai dari ZARVE Fleet sebagai fondasi kontrol setiap kendaraan.",
+      "imageAlt": "Dashboard ZARVE Fleet ditampilkan di desktop dan mobile",
+      "productLabel": "Produk"
+    },
+    "payments": {
+      "eyebrow": "Pembayaran, Terhubung",
+      "title": "Setiap transaksi",
+      "accent": "punya konteks.",
+      "description": "Satu transaksi dapat memperbarui operation, finance, dan management view secara otomatis — dari pembayaran diterima hingga dashboard ter-update.",
+      "bannerPart1": "Setiap transaksi ",
+      "bannerAccent1": "punya konteks."
+    },
+    "management": {
+      "eyebrow": "Pusat Kendali Manajemen",
+      "title": "Seluruh bisnis Anda.",
+      "accent": "Satu layar.",
+      "description": "ZARVE Management Command Center menyatukan indikator utama dari operasional dan finansial dalam satu dashboard — dari satu kendaraan hingga group consolidated view.",
+      "noteAccent": "Dari data menjadi keputusan.",
+      "note": " Satu dashboard untuk memahami bisnis, mengontrol operasional, dan mengambil keputusan lebih cepat.",
+      "imageAlt": "ZARVE Management Command Center di laptop"
+    },
+    "intelligence": {
+      "eyebrow": "Lapisan Intelligence",
+      "title": "Dari data",
+      "accent": "menjadi keputusan.",
+      "description": "ZARVE Analytics dan AI membantu management melihat, memahami, memprediksi, dan bertindak — mengubah data bisnis menjadi management intelligence.",
+      "imageAlt": "Dashboard analytics dan AI ZARVE",
+      "bannerPart1": "Data bisnis Anda menjadi ",
+      "bannerAccent1": "management intelligence."
+    },
+    "cta": {
+      "title": "Lihat platform lengkapnya",
+      "accent": "beraksi.",
+      "description": "Kami akan tunjukkan bagaimana ZARVE bekerja untuk skala dan model bisnis Anda."
+    }
+  },
+  "PlansPage": {
+    "header": {
+      "eyebrow": "Paket & Harga",
+      "title": "Bayar sesuai pertumbuhan,",
+      "accent": "berkembang tanpa batas.",
+      "description": "Model komersial ZARVE mengikuti ukuran fleet, modul, dan volume transaksi bisnis Anda."
+    },
+    "commercial": {
+      "eyebrow": "Struktur Komersial",
+      "title": "Fleksibel. Mudah berkembang.",
+      "accent": "Bayar sesuai pertumbuhan.",
+      "description": "Model komersial dapat mengikuti ukuran fleet, modul, dan volume transaksi customer — perusahaan dapat memulai dari kebutuhan utama dan berkembang sesuai pertumbuhan bisnis."
+    },
+    "comparison": {
+      "eyebrow": "Model Bisnis SaaS",
+      "title": "Jangan bangun sistemnya sendiri.",
+      "accent": "Berlangganan saja.",
+      "description": "ZARVE SaaS menawarkan model Software as a Service untuk rental dan fleet transport — tanpa beban development dan infrastruktur di awal.",
+      "startSmallTitle": "Mulai kecil.",
+      "startSmallSubtitle": "Berkembang hingga ribuan kendaraan.",
+      "lowerCostTitle": "Biaya lebih rendah",
+      "lowerCostSubtitle": "Lebih efisien",
+      "easyScaleTitle": "Mudah berkembang",
+      "easyScaleSubtitle": "Tumbuh bersama bisnis Anda",
+      "imageAlt": "Perjalanan pertumbuhan fleet ZARVE"
+    },
+    "market": {
+      "eyebrow": "Pasar & Diferensiasi",
+      "title": "Dibangun untuk",
+      "accent": "bisnis yang bergerak.",
+      "description": "ZARVE dapat digunakan oleh operator kendaraan maupun perusahaan dengan fleet operasional.",
+      "whyTitle": "Mengapa ZARVE?",
+      "vehiclesAlt": "Kendaraan {title}",
+      "bannerPart1": "Satu platform untuk ",
+      "bannerAccent1": "berbagai model bisnis mobility."
+    },
+    "pricing": {
+      "eyebrow": "Paket Subscription",
+      "title": "Paket fleksibel.",
+      "accent": "Solusi yang mudah berkembang.",
+      "description": "Pilih operating system yang tepat untuk skala bisnis Anda — dari fleet kecil hingga enterprise multi-company."
+    },
+    "difference": {
+      "eyebrow": "Keunggulan ZARVE",
+      "title": "Lebih dari software.",
+      "accent": "Lebih dari otomatisasi.",
+      "description": "Software tradisional mengelola fitur. ZARVE mengelola bisnis — dari digitalization menuju intelligent ecosystem yang menghubungkan operasional, transaksi, finansial, dan data dalam satu platform.",
+      "journeyTitle": "Perjalanan transformasi ZARVE"
+    },
+    "cta": {
+      "title": "Belum yakin paket mana",
+      "accent": "yang cocok untuk bisnis Anda?",
+      "description": "Ceritakan skala dan kebutuhan operasional Anda — tim ZARVE akan membantu merekomendasikan paket yang tepat."
+    }
+  },
+  "ContactPage": {
+    "header": {
+      "eyebrow": "Hubungi Kami",
+      "title": "Mari terhubung.",
+      "accent": "Mari bertumbuh.",
+      "description": "Satu tim, siap membantu operasional, transaksi, hingga pertumbuhan bisnis Anda berjalan lebih baik."
+    },
+    "section": {
+      "titlePart1": "Mari bangun masa depan ",
+      "titleAccent": "bisnis Anda, bersama.",
+      "intro": "Tim ZARVE siap membantu Anda menemukan solusi terbaik untuk operasional, transaksi, dan pertumbuhan bisnis Anda.",
+      "imageAlt": "Ruang resepsionis kantor ZARVE dan QR code kontak"
+    }
+  },
+  "Content": {
+    "heroBenefits": [
+      { "title": "Satu Platform", "description": "Satu sistem untuk seluruh operasional bisnis." },
+      { "title": "Keputusan Cerdas", "description": "Insight real-time untuk keputusan yang lebih baik." },
+      { "title": "Aman & Andal", "description": "Aman, stabil, dan terpercaya." },
+      { "title": "Dirancang untuk Berkembang", "description": "Tumbuh mengikuti perkembangan bisnis Anda." }
+    ],
+    "challengeCards": [
+      { "title": "Armada", "description": "Status aktif, idle, perawatan, dan ketersediaan" },
+      { "title": "Pengemudi", "description": "Penugasan, deposit, dan performa risiko" },
+      { "title": "Rental", "description": "Booking, kontrak, serah terima, dan pengembalian" },
+      { "title": "Perawatan", "description": "Status aktif, idle, perawatan, dan ketersediaan" },
+      { "title": "Keuangan", "description": "Pendapatan, biaya, AR/AP, dan arus kas" },
+      { "title": "Aset", "description": "Pembiayaan, dokumen, pajak, dan siklus hidup" },
+      { "title": "Pembayaran", "description": "Billing, penagihan, settlement, dan rekonsiliasi" },
+      { "title": "Manajemen", "description": "KPI, margin, cabang, dan profitabilitas" }
+    ],
+    "productModules": [
+      {
+        "name": "FLEET",
+        "brand": "ZARVE",
+        "tagline": "Kontrol Setiap Kendaraan",
+        "description": "Dari status kendaraan hingga revenue dan profitability, ZARVE Fleet memberikan satu sumber data untuk melihat kondisi setiap kendaraan sepanjang lifecycle operasionalnya.",
+        "points": [
+          "Database master kendaraan lengkap untuk seluruh armada",
+          "GPS & telematics real-time",
+          "Utilisasi & produktivitas per unit",
+          "Revenue & cost sampai level kendaraan",
+          "Dokumen, pajak, STNK, dan pengingat jatuh tempo",
+          "Profitabilitas per unit"
+        ]
+      },
+      {
+        "name": "RENT",
+        "brand": "ZARVE",
+        "tagline": "Sistem Operasi Bisnis Rental",
+        "description": "Dari booking hingga pembayaran dan return, ZARVE Rent menghubungkan seluruh proses rental dalam satu platform terintegrasi.",
+        "points": ["Booking & kontrak", "Serah terima & pengembalian", "Manajemen pelanggan", "Billing terintegrasi"]
+      },
+      {
+        "name": "DRIVE",
+        "brand": "ZARVE",
+        "tagline": "Performa Tim",
+        "description": "Driver management yang terhubung langsung dengan fleet performance — assignment, deposit, hingga risk & performance scoring.",
+        "points": ["Penugasan & penjadwalan", "Manajemen deposit", "Skor risiko & performa"]
+      },
+      {
+        "name": "WORKSHOP",
+        "brand": "ZARVE",
+        "tagline": "Kesehatan Kendaraan",
+        "description": "Maintenance terhubung real-time dengan data kendaraan dan performa driver untuk kontrol bisnis yang lebih baik.",
+        "points": ["Perawatan preventif & korektif", "Part & inventaris", "Riwayat servis per unit"]
+      },
+      {
+        "name": "ERP",
+        "brand": "ZARVE",
+        "tagline": "Satu Perusahaan. Satu Sistem.",
+        "description": "Menghubungkan operasional dan transaksi ke dalam satu sumber data untuk bisnis yang lebih transparan dan efisien.",
+        "points": ["Aset & pengadaan", "Operasional multi-cabang", "Alur kerja & persetujuan"]
+      },
+      {
+        "name": "FINANCE",
+        "brand": "ZARVE",
+        "tagline": "Satu Data. Keputusan Lebih Baik.",
+        "description": "Dari aktivitas bisnis hingga keputusan finansial, semua terhubung dalam satu platform dengan satu sumber data yang terintegrasi.",
+        "points": ["Pendapatan & biaya", "AR / AP", "Arus kas & pelaporan"]
+      },
+      {
+        "name": "WALLET",
+        "brand": "ZARVE",
+        "tagline": "Ekosistem Dompet Digital",
+        "description": "Menghubungkan pembayaran, transaksi, dan keuangan dalam satu ecosystem yang aman, cepat, dan terintegrasi.",
+        "points": ["Saldo digital & top-up", "Transfer antar akun", "Riwayat transaksi"]
+      },
+      {
+        "name": "PAY",
+        "brand": "ZARVE",
+        "tagline": "Infrastruktur & Integrasi Pembayaran",
+        "description": "Infrastruktur pembayaran yang terintegrasi dengan billing, collection, dan settlement secara real-time.",
+        "points": ["Billing & penagihan", "Settlement & rekonsiliasi", "Integrasi payment gateway"]
+      }
+    ],
+    "paymentSteps": [
+      { "title": "Pembayaran Diterima", "description": "Pembayaran diterima secara real-time." },
+      { "title": "Transaksi Teridentifikasi", "description": "Transaksi terhubung dengan data bisnis." },
+      { "title": "Tagihan Tercocokkan", "description": "Pembayaran sesuai dengan tagihan." },
+      { "title": "Piutang Diperbarui", "description": "Status piutang diperbarui otomatis." },
+      { "title": "Data Finansial Diperbarui", "description": "Data finansial tersinkronisasi." },
+      { "title": "Dashboard Diperbarui", "description": "Insight bisnis tersedia real-time." }
+    ],
+    "paymentContext": ["Kendaraan", "Pengemudi", "Pelanggan", "Tagihan", "Kontrak", "Cabang", "Catatan Akuntansi"],
+    "managementFeatures": [
+      { "title": "Ringkasan Armada", "description": "Kondisi armada secara keseluruhan." },
+      { "title": "Utilisasi", "description": "Produktivitas setiap unit kendaraan." },
+      { "title": "Pendapatan", "description": "Pendapatan real-time per periode." },
+      { "title": "Profitabilitas", "description": "Margin bersih per unit & cabang." },
+      { "title": "Penagihan", "description": "Status penagihan dan piutang." },
+      { "title": "Arus Kas", "description": "Arus kas masuk dan keluar." },
+      { "title": "Perawatan", "description": "Jadwal dan riwayat perawatan." },
+      { "title": "Performa Pengemudi", "description": "Skor performa dan risiko driver." },
+      { "title": "KPI Manajemen", "description": "Indikator kinerja utama bisnis." },
+      { "title": "Tampilan Konsolidasi", "description": "Satu tampilan lintas cabang & entitas." }
+    ],
+    "intelligenceTimeline": [
+      { "title": "Data", "description": "Apa yang terjadi?" },
+      { "title": "Informasi", "description": "Apa artinya?" },
+      { "title": "Wawasan", "description": "Mengapa itu terjadi?" },
+      { "title": "Prediksi", "description": "Apa yang mungkin terjadi?" },
+      { "title": "Keputusan", "description": "Apa yang harus dilakukan?" }
+    ],
+    "intelligenceUseCases": [
+      { "title": "Perawatan Prediktif", "description": "Kondisi kendaraan" },
+      { "title": "Prakiraan Pendapatan", "description": "Pertumbuhan & kapasitas" },
+      { "title": "Skor Risiko", "description": "Driver / pembayaran" },
+      { "title": "Deteksi Anomali", "description": "Kebocoran & fraud" },
+      { "title": "Prakiraan Arus Kas", "description": "Likuiditas" },
+      { "title": "Asisten AI", "description": "Insight bahasa natural" }
+    ],
+    "commercialItems": [
+      { "title": "Biaya Platform", "description": "Biaya akses bulanan." },
+      { "title": "Per Kendaraan", "description": "Sesuai jumlah unit." },
+      { "title": "Modul", "description": "Add-on sesuai kebutuhan." },
+      { "title": "Transaksi", "description": "Layanan pembayaran." },
+      { "title": "Enterprise", "description": "API, integrasi, custom." }
+    ],
+    "comparisonColumns": [
+      {
+        "heading": "Tradisional",
+        "subheading": "Bangun semuanya sendiri",
+        "items": [
+          "Investasi development besar di awal",
+          "Tim IT khusus",
+          "Server & maintenance",
+          "Implementasi yang lama",
+          "Beban upgrade berkelanjutan"
+        ]
+      },
+      {
+        "heading": "ZARVE SaaS",
+        "subheading": "Berlangganan. Berkembang. Meningkat.",
+        "items": [
+          "Akses platform bulanan",
+          "Bayar sesuai ukuran fleet",
+          "Pilih modul sesuai kebutuhan",
+          "Update & maintenance termasuk",
+          "API, support & opsi enterprise"
+        ]
+      }
+    ],
+    "industries": [
+      { "title": "Rental Mobil", "description": "Rental jangka pendek / panjang" },
+      { "title": "Transportasi Armada", "description": "Operator transportasi" },
+      { "title": "Logistik", "description": "Delivery & kendaraan komersial" },
+      { "title": "Transportasi Online", "description": "Taxi & armada driver" },
+      { "title": "Armada Korporat", "description": "Kendaraan operasional" },
+      { "title": "Ekosistem Kendaraan Listrik", "description": "Operator EV & after sales" }
+    ],
+    "differentiators": [
+      "Dibangun dari operasional nyata",
+      "Operasional + Keuangan + Pembayaran",
+      "SaaS Modular",
+      "Siap API",
+      "Berfokus pada manajemen",
+      "Siap AI"
+    ],
+    "differenceJourney": [
+      { "title": "Digitalisasi", "description": "Mengubah proses manual menjadi digital." },
+      { "title": "Terhubung", "description": "Menghubungkan seluruh ekosistem bisnis." },
+      { "title": "Bertransaksi", "description": "Memproses transaksi secara terhubung." },
+      { "title": "Otomatisasi", "description": "Mengurangi proses manual." },
+      { "title": "Prediksi", "description": "Mengubah data menjadi prediksi." },
+      { "title": "Cerdas", "description": "Membangun bisnis yang lebih cerdas." }
+    ],
+    "pricingPlans": [
+      {
+        "name": "Starter",
+        "audience": "Rental & fleet kecil",
+        "features": ["Fleet", "Rental", "Customer", "Billing", "Dashboard dasar"]
+      },
+      {
+        "name": "Professional",
+        "audience": "Fleet yang berkembang",
+        "features": ["Fitur Starter", "Driver", "Workshop", "Finance", "Integrasi pembayaran"]
+      },
+      {
+        "name": "Business",
+        "audience": "Menengah & besar",
+        "features": ["Fleet + rental", "ERP", "Finance", "Payment", "Analytics + multi-cabang"]
+      },
+      {
+        "name": "Enterprise",
+        "audience": "Organisasi besar",
+        "features": ["Full ERP", "Multi-company", "Integrasi API", "Custom workflow", "Dedicated support"]
+      }
+    ],
+    "planBenefits": [
+      { "title": "Fleksibel", "description": "Upgrade, downgrade, atau tambah modul kapan saja." },
+      { "title": "Mudah Berkembang", "description": "Mulai kecil, berkembang tanpa batas." },
+      { "title": "Aman & Andal", "description": "Data aman, sistem stabil, selalu up-to-date." },
+      { "title": "Didukung Penuh", "description": "Tim support profesional siap membantu Anda." }
+    ],
+    "contactDetails": [
+      {
+        "label": "Telepon / WhatsApp",
+        "value": "+62 812 59 5599"
+      },
+      {
+        "label": "Email",
+        "value": "rvetrans@rilingroup.com"
+      },
+      {
+        "label": "Website",
+        "value": "www.zarve.id"
+      },
+      {
+        "label": "Kantor Pusat",
+        "value": "PT Riline Velocity Express\nJl. Sentra Niaga V No.17 Blok 7, Harapan Indah, Tarumajaya, Bekasi, Jawa Barat"
+      }
+    ]
+  }
+}
